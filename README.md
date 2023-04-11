@@ -29,9 +29,11 @@ thay đổi chân đầu ra = 0v thành 3,3v và ngược lại
 DH11::
 DHT đo nhiệt độ độ ẩm
 Esp sẽ chuyển dữ liệu này lệ firebase
--cần code thêm
+
+#cần code thêm //xong
 If (độ ẩm > 45) 
    {relay bật}
+
 -Sơ đồ
 ![image](https://user-images.githubusercontent.com/60863634/231210164-aaa4d669-2e40-4082-abff-406c7dce4da0.png) 
 Đỏ chung 1 mạch Dương NGUỒN USB PHỤ
